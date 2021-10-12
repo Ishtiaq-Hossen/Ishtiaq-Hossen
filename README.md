@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://scontent.fcgp27-1.fna.fbcdn.net/v/t1.6435-9/245372155_2983947835218849_1733953915413746399_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=KqC-ZtFKStEAX80YnRg&_nc_ht=scontent.fcgp27-1.fna&oh=e090949649a816796728256308ca5f93&oe=618BFF43)
+### Hi there 👋, I'm Ishtiaq Hossen
 
-<!--
-**Ishtiaq-Hossen/Ishtiaq-Hossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A second-year student of CSE department, Independent University Bangladesh. Code debugging, competitive programming is my passion. In addition I am interested in Web developing and Machine Learning. I believe in my entrepreneurship personality. Since my childhood, business attracts me a lot.
+I loved to walk with positivity.
+Thank you.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ishtiaq-Hossen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ishtiaq-hossen-60a8981ba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ishtiaq.hossen.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/HossenIshtiaq)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishtiaq-Hossen)](https://github.com/anuraghazra/github-readme-stats)
+
