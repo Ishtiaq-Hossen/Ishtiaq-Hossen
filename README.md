@@ -1,4 +1,3 @@
-![](https://scontent.fcgp27-1.fna.fbcdn.net/v/t1.6435-9/245372155_2983947835218849_1733953915413746399_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=KqC-ZtFKStEAX80YnRg&_nc_ht=scontent.fcgp27-1.fna&oh=e090949649a816796728256308ca5f93&oe=618BFF43)
 ### Hi there 👋, I'm Ishtiaq Hossen
 
 A second-year student of CSE department, Independent University Bangladesh. Code debugging, competitive programming is my passion. In addition I am interested in Web developing and Machine Learning. I believe in my entrepreneurship personality. Since my childhood, business attracts me a lot.
