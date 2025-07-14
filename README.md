@@ -1,7 +1,8 @@
-# **Ishtiaq Hossen - Software Engineer**  
-🚀 **Innovative Developer | Problem Solver | Tech Enthusiast**  
-
 <div align="center">
+<h1>Ishtiaq Hossen - Software Engineer</h1>
+  <p>🚀 Innovative Developer | Problem Solver | Tech Enthusiast</p>
+
+
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Java-8-007396?logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Flutter-Full%20Stack-02569B?logo=flutter" alt="Flutter">
